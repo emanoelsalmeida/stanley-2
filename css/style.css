@@ -102,18 +102,15 @@ nav.black ul li a{color:#fff;}
 .p5{background-color:#040717;padding: 2em 1em;display: flex;
     justify-content: center;align-items: center;}
 .p5-box{display: flex;justify-content: center;align-items: center;}
-.p5-item{width: 30%;}
-.p5-item:nth-child(3){display: flex;justify-content: center;width: 17%;}
-.p5-item img{width: 70%;}
-.p5-i a img{width: 10%;height: auto;padding: .1em;}
-.p5-i:nth-child(1) a img{width: 70%;}
-.p5-i:nth-child(2) a img{width: 70%;}
-.p5-i:nth-child(3) a img{width: 70%;}
-.p5-i:nth-child(4) a img{width: 70%;}
-.p5-i:nth-child(5) a img{width: 70%;}
+.p5-item{width: 33%;}
+.p5-item:nth-child(3){display: flex;justify-content: center;width: 20%;}
+.p5-item:nth-child(1){width: 20%;}
+.p5-item img{width: 90%;}
+.p5-i a img{width: 90%;height: auto;padding: .3em;}
 
 
-.p5-item p{color: #fff;font-weight: 700;text-align: center;}
+
+.p5-item p{color: #fff;font-weight: 700;text-align: center;display: block;margin: 0 auto;}
 
 .breve{background:url(/image/Capa\ behance\ \(2\).png);min-height: 100vh;flex-direction: column;
     background-size:cover;background-position:center top;padding: 3em 0 2em;place-items: center;}
@@ -184,9 +181,10 @@ footer p a{color:#b7202e; text-decoration: none;}
         flex-direction: column;}
     .p5-item{margin: 1em 0;width: 90%;}
     .p5-item:nth-child(3){width: 70%;}
-    .p5-item img{width: 50%;margin: 1em 0 0;display: block;margin: 0 auto;}
+    .p5-item:nth-child(1){width: 100%;}
+    .p5-item img{width: 30%;margin: 1em 0 0;display: block;margin: 0 auto;}
     .p5-item a {text-align: center;text-decoration: none;}
-    .p5-i a img:nth-child(1){width: 70%;}
+    .p5-i a img{width: 50%;}
   
     .logo-left{margin-left: 0;}
 
