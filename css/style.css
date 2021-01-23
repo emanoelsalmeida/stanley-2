@@ -182,9 +182,9 @@ footer p a{color:#b7202e; text-decoration: none;}
     .p5-item{margin: 1em 0;width: 90%;}
     .p5-item:nth-child(3){width: 70%;}
     .p5-item:nth-child(1){width: 100%;}
-    .p5-item img{width: 30%;margin: 1em 0 0;display: block;margin: 0 auto;}
+    .p5-item img{width: 50%;margin: 1em 0 0;display: block;margin: 0 auto;}
     .p5-item a {text-align: center;text-decoration: none;}
-    .p5-i a img{width: 50%;}
+    .p5-i a img{width: 40%;}
   
     .logo-left{margin-left: 0;}
 
